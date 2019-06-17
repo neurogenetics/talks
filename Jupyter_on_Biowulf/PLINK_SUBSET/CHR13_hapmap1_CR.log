@@ -1,0 +1,27 @@
+PLINK v1.90b4.4 64-bit (21 May 2017)
+Options in effect:
+  --bfile hapmap1_CR
+  --chr 13
+  --make-bed
+  --out ./PLINK_SUBSET/CHR13_hapmap1_CR
+
+Hostname: cn2608
+Working directory: /gpfs/gsfs9/users/LNG/makariousmb/Jupyter_Workshop
+Start time: Wed Jun 12 17:29:12 2019
+
+Random number seed: 1560374952
+128639 MB RAM detected; reserving 64319 MB for main workspace.
+3166 out of 83534 variants loaded from .bim file.
+89 people (89 males, 0 females) loaded from .fam.
+89 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 89 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.992256.
+3166 variants and 89 people pass filters and QC.
+Among remaining phenotypes, 44 are cases and 45 are controls.
+--make-bed to ./PLINK_SUBSET/CHR13_hapmap1_CR.bed +
+./PLINK_SUBSET/CHR13_hapmap1_CR.bim + ./PLINK_SUBSET/CHR13_hapmap1_CR.fam ...
+done.
+
+End time: Wed Jun 12 17:29:13 2019
