@@ -1,0 +1,23 @@
+
+    plink --bfile hapmap1_CR --chr 1 --make-bed --out ./PLINK_SUBSET/CHR1_hapmap1_CR
+    plink --bfile hapmap1_CR --chr 2 --make-bed --out ./PLINK_SUBSET/CHR2_hapmap1_CR
+    plink --bfile hapmap1_CR --chr 3 --make-bed --out ./PLINK_SUBSET/CHR3_hapmap1_CR
+    plink --bfile hapmap1_CR --chr 4 --make-bed --out ./PLINK_SUBSET/CHR4_hapmap1_CR
+    plink --bfile hapmap1_CR --chr 5 --make-bed --out ./PLINK_SUBSET/CHR5_hapmap1_CR
+    plink --bfile hapmap1_CR --chr 6 --make-bed --out ./PLINK_SUBSET/CHR6_hapmap1_CR
+    plink --bfile hapmap1_CR --chr 7 --make-bed --out ./PLINK_SUBSET/CHR7_hapmap1_CR
+    plink --bfile hapmap1_CR --chr 8 --make-bed --out ./PLINK_SUBSET/CHR8_hapmap1_CR
+    plink --bfile hapmap1_CR --chr 9 --make-bed --out ./PLINK_SUBSET/CHR9_hapmap1_CR
+    plink --bfile hapmap1_CR --chr 10 --make-bed --out ./PLINK_SUBSET/CHR10_hapmap1_CR
+    plink --bfile hapmap1_CR --chr 11 --make-bed --out ./PLINK_SUBSET/CHR11_hapmap1_CR
+    plink --bfile hapmap1_CR --chr 12 --make-bed --out ./PLINK_SUBSET/CHR12_hapmap1_CR
+    plink --bfile hapmap1_CR --chr 13 --make-bed --out ./PLINK_SUBSET/CHR13_hapmap1_CR
+    plink --bfile hapmap1_CR --chr 14 --make-bed --out ./PLINK_SUBSET/CHR14_hapmap1_CR
+    plink --bfile hapmap1_CR --chr 15 --make-bed --out ./PLINK_SUBSET/CHR15_hapmap1_CR
+    plink --bfile hapmap1_CR --chr 16 --make-bed --out ./PLINK_SUBSET/CHR16_hapmap1_CR
+    plink --bfile hapmap1_CR --chr 17 --make-bed --out ./PLINK_SUBSET/CHR17_hapmap1_CR
+    plink --bfile hapmap1_CR --chr 18 --make-bed --out ./PLINK_SUBSET/CHR18_hapmap1_CR
+    plink --bfile hapmap1_CR --chr 19 --make-bed --out ./PLINK_SUBSET/CHR19_hapmap1_CR
+    plink --bfile hapmap1_CR --chr 20 --make-bed --out ./PLINK_SUBSET/CHR20_hapmap1_CR
+    plink --bfile hapmap1_CR --chr 21 --make-bed --out ./PLINK_SUBSET/CHR21_hapmap1_CR
+    plink --bfile hapmap1_CR --chr 22 --make-bed --out ./PLINK_SUBSET/CHR22_hapmap1_CR

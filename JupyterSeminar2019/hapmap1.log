@@ -1,0 +1,29 @@
+PLINK v1.90b4.4 64-bit (21 May 2017)
+Options in effect:
+  --file hapmap1
+  --keep-allele-order
+  --make-bed
+  --out hapmap1
+
+Hostname: cn3205
+Working directory: /gpfs/gsfs9/users/LNG/makariousmb/Jupyter_Workshop
+Start time: Tue Jun 11 15:50:24 2019
+
+Random number seed: 1560282624
+257652 MB RAM detected; reserving 128826 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (83534 variants, 89 people).
+--file: hapmap1-temporary.bed + hapmap1-temporary.bim + hapmap1-temporary.fam
+written.
+83534 variants loaded from .bim file.
+89 people (89 males, 0 females) loaded from .fam.
+89 phenotype values loaded from .fam.
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 89 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.99441.
+83534 variants and 89 people pass filters and QC.
+Among remaining phenotypes, 44 are cases and 45 are controls.
+--make-bed to hapmap1.bed + hapmap1.bim + hapmap1.fam ... done.
+
+End time: Tue Jun 11 15:50:24 2019
