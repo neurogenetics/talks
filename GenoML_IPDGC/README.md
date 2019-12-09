@@ -7,4 +7,4 @@
 - **Date Last Updated:** 12.05.2019
 	- Last Update: Initializing README and course folder on GitHub
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neurogenetics/talks/master?filepath=GenoML_IPDGC)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neurogenetics/talks/master?urlpath=lab?filepath=GenoML_IPDGC%2FGenoML_IPDGC_Demo.ipynb)
